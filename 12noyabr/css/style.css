@@ -1,0 +1,36 @@
+.project-text{
+    text-align: center;
+}
+.project-text h3{
+color: #ecb807;
+font-size: 16px;
+
+}
+.project-text h2{
+    color: #212529;
+    font-size: 48px;
+
+
+}
+.all{
+    width: 80%;
+    margin: auto;
+}
+.all .box{
+    float: left ;
+    width: 50%;
+
+}
+.box img{
+    width: 100%;
+}
+
+.box:hover{
+
+    transform: scale(0.7);
+    transform: rotate(360deg);
+    
+}
+.box{
+    transition: 1s;
+}
